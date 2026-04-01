@@ -10,7 +10,7 @@ If you want to make sure that the images and videos you see online are real and 
 
 ## What Are Deepfakes
 
-Deepfakes are images, videos, or audio that have been changed using AI to look real. Sometimes they are created just for fun, like face swaps in movies, but they can also be used in dangerous ways, such as spreading false information or committing fraud. Using a deepfake detection tool helps you protect yourself and your audience from manipulated content.
+Deepfakes are images or videos that have been changed using AI to look real. Sometimes they are created just for fun, like face swaps in movies, but they can also be used in dangerous ways, such as spreading false information or committing fraud. Using a deepfake detection tool helps you protect yourself and your audience from manipulated content.
 
 ---
 
